@@ -4,8 +4,8 @@ This Flutter app demonstrates basic CRUD (Create, Read, Update, Delete) operatio
 Setup and Run:
 
 1. Clone the Repository:
-    git clone https://github.com/your-username/your-repository.git
-    cd your-repository
+    git clone https://github.com/sunilTech26/CPM.git
+    cd cpm
 
 2. Install Dependencies:
    flutter pub get
